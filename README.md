@@ -3,9 +3,7 @@
 **This** is a ✨ _special_ ✨ text `because` you are reading this.
 **Cyber Security <3**
 
-<a href="https://roadmap.sh">
-  <img src="https://roadmap.sh/card/wide/66dcd8a7c46f68d052d773a9?variant=dark&roadmaps=cyber-security" alt="roadmap.sh"/>
-</a>
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/66dcd8a7c46f68d052d773a9?variant=dark" alt="roadmap.sh"/></a>
 
 
 # 💻 Tech Stack:
