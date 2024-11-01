@@ -15,4 +15,4 @@
 ### ✍️ Feeling bad?
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<!-- this is made with GPRM ( https://gprm.itsvg.in ) lol,  -->
+<!-- this is made with https://gprm.itsvg.in lol,  -->
