@@ -1,7 +1,6 @@
 # 💫 About Me:
 
 **This** is a ✨ _special_ ✨ text `because` you are reading this.
-**Cyber Security <3**
 
 <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/66dcd8a7c46f68d052d773a9?variant=dark&roadmaps=cyber-security" alt="roadmap.sh"/></a>
 
@@ -13,7 +12,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TheLinuxCursor&theme=synthwave&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TheLinuxCursor&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Feeling bad?
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!-- this is made with GPRM ( https://gprm.itsvg.in ) lol,  -->
