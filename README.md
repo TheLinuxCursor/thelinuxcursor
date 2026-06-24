@@ -4,8 +4,8 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=thelinuxcursor&show_icons=true&theme=transparent)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Thelinuxcursor&theme=dark&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
-![](https://github-readme-streak-stats.herokuapp.com/?user=TheLinuxCursor&theme=synthwave&hide_border=false)<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thelinuxcursor&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=TheLinuxCursor&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TheLinuxCursor&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
